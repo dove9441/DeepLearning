@@ -1,0 +1,6 @@
+/workspace/DeepLearning/AIConnect/cow/test/
+/workspace/DeepLearning/AIConnect/cow/train/
+/workspace/DeepLearning/CatDog/dataset/
+*.jpg
+*.zip
+*.png
